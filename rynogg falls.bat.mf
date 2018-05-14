@@ -15,7 +15,7 @@ C:\Program Files x84\ttr phase files\phase_12 -x -f multify.exe phase_12
 C:\Program Files x84\ttr phase files\phase_13 -x -f multify.exe phase_13
 C:\Program Files x84\ttr phase files\phase_14 -x -f multify.exe phase 14
 echo "ttrUsername=ryno"
-export "ttrPassword=billcipher45"
+echo "ttrPassword=billcipher45"
 echo ===============================
 echo Starting Toontown Mythical Online...
 echo Username: $ttrUsername$
