@@ -1,5 +1,5 @@
 @echo off
-ppython "launcher"
+ppython.exe "launcher"
 C:\Program Files x84\ttr phase files\phase_3 -x -f multify.exe phase 3
 C:\Program Files x84\ttr phase files\phase_3.5 -x -f multify.exe phase 3.5
 C:\Program Files x84\ttr phase files\phase_4 -x -f multify.exe phase 4
